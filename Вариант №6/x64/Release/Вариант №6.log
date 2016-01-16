@@ -1,0 +1,20 @@
+﻿Сборка начата 22.12.2015 18:13:37.
+     1>Проект "C:\Users\1\Documents\Visual Studio 2015\Projects\Зачёты по программированию\Вариант №6\Вариант №6.vcxproj" в узле 2 (целевые объекты Build).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\x86_amd64\CL.exe /c /Zi /nologo /W3 /WX- /sdl /O2 /Oi /GL /D NDEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm- /EHsc /MD /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"x64\Release\\" /Fd"x64\Release\vc140.pdb" /Gd /TP /errorReport:prompt GeneralPrototypes.cpp main.cpp TRAIN.cpp
+         GeneralPrototypes.cpp
+         main.cpp
+         TRAIN.cpp
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\x86_amd64\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\1\Documents\Visual Studio 2015\Projects\Зачёты по программированию\x64\Release\Вариант №6.exe" /INCREMENTAL:NO /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /Debug /PDB:"C:\Users\1\Documents\Visual Studio 2015\Projects\Зачёты по программированию\x64\Release\Вариант №6.pdb" /SUBSYSTEM:CONSOLE /OPT:REF /OPT:ICF /LTCG:incremental /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\1\Documents\Visual Studio 2015\Projects\Зачёты по программированию\x64\Release\Вариант №6.lib" /MACHINE:X64 x64\Release\GeneralPrototypes.obj
+         x64\Release\main.obj
+         x64\Release\TRAIN.obj
+         Создание кода
+         All 159 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+         Создание кода завершено
+         Вариант №6.vcxproj -> C:\Users\1\Documents\Visual Studio 2015\Projects\Зачёты по программированию\x64\Release\Вариант №6.exe
+     1>Сборка проекта "C:\Users\1\Documents\Visual Studio 2015\Projects\Зачёты по программированию\Вариант №6\Вариант №6.vcxproj" завершена (целевые объекты Build).
+
+Сборка успешно завершена.
+
+Затраченное время: 00:00:06.05
